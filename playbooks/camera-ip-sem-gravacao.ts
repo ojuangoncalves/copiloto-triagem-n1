@@ -45,9 +45,9 @@ export const camIpNoRecording: Playbook = {
             title: "Verificar estado do cartão SD",
             appliesTo: ["CAMERA_SD"],
             whyItMatters: "Se a câmera não está reconhecendo o cartão SD pode significar que não suporta esse modelo de cartão, que o cartão está corrompido ou então não foi formatado da maneira correta.",
-            evidenceRequired: "Se há cartão instalado na câmera, modelo e capacidade de armazenamento do cartão SD utilizado, status exatamente como a câmera exibe",
+            evidenceRequired: "Se há cartão instalado na câmera, modelo e capacidade de armazenamento do cartão SD utilizado, status exatamente como a câmera exibe.",
             vagueExamples: ["cartão ok", "tem cartão SD"],
-            nextAction: "Verificar na ficha técnica da câmera qual a capacidade máxima de armazenamento e acessar a interface da câmera e verificar as configurações de armazenamento. NÃO formatar o cartão antes de confirmar com o cliente que não há gravações a preservar"
+            nextAction: "Verificar na ficha técnica da câmera qual a capacidade máxima de armazenamento e acessar a interface da câmera e verificar as configurações de armazenamento. NÃO formatar o cartão antes de confirmar com o cliente que não há gravações a preservar."
         },
         {
             id: "CAM-05",
