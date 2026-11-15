@@ -1,4 +1,4 @@
-# Copiloto de Triagem N1 — Câmera IP sem gravação
+# Copiloto de Triagem N1
 
 Protótipo de uma ferramenta que ajuda o analista de suporte N1 a conferir, durante o atendimento,
 quais testes de um playbook técnico já têm evidência no relato e o que ainda falta, antes de escalar para o N2.
